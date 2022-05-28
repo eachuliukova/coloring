@@ -1,0 +1,2 @@
+all: coloring.cpp
+	g++ -o main_test.exe -std=c++17 coloring.cpp 
